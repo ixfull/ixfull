@@ -31,7 +31,7 @@
 <p align="center">
   <a href="https://ixfull.com">
     <img
-      src="https://img.shields.io/badge/INDEX-IXFULL.COM-18181B?style=for-the-badge&amp;labelColor=303036"
+      src="https://img.shields.io/badge/WEBSITE-IXFULL.COM-18181B?style=for-the-badge&amp;labelColor=303036"
       alt="INDEX — Official Website"
       height="32"
     />
